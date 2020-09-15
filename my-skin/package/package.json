@@ -1,0 +1,12 @@
+{
+  "name": "derm.template",
+  "version": "0.1.0",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "FHIR Template - Tooling around",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+  
+}

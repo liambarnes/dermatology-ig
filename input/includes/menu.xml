@@ -35,4 +35,15 @@
       </li>
     </ul>
   </li>
+  
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Terminology<b class="caret">
+    </b>
+    </a>
+    <ul class="dropdown-menu">
+      <li>
+        <a href="terms.html">Terminology</a>
+      </li>
+    </ul>
+  </li>
 </ul>      
